@@ -1,0 +1,10 @@
+==Video
+-VNC
+--RFB protocol
+-WiFi
+--Miracast
+-DLNA
+
+==Audio
+-AudioTrack
+-AudioRecord
